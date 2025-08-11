@@ -2,7 +2,7 @@
 
 # What i built ?
 
-You built a Python script that uses the Pillow library to batch resize images. The script takes a folder of images as input, resizes each image to a specified size (800x600), and saves the resized images to a new folder.
+You built a Python script that uses the Pillow library to batch resize images. The script takes a folder of images as input, resizes each image to a specified size (600x600), and saves the resized images to a new folder.
 
 # Why i built it ?
 
